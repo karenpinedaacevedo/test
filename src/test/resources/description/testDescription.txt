@@ -1,0 +1,5 @@
+en la primera prueba puse un 4 para que este me devolviera night
+en la segunda prueba puse un 8 para que este me devolviera morning
+en la tercera prueba puse un 15 para que este me devolviera afternoon
+en la cuarta prueba puse un 23 para que este me devolvera evening
+en la quita prueba puse 27 para que este me devolviera invalid hour
